@@ -1,2 +1,2 @@
 # Angular
-Learning
+Learning Angular programing fot the CIFO course
